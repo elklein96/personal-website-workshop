@@ -1,0 +1,24 @@
+.navbar {
+    margin-bottom: 0;
+}
+
+.jumbotron {
+    height: 65vh;
+    background-image: url('../assets/background.jpeg')
+}
+
+.jumbotron h1,
+.jumbotron h2 {
+    color: #fff;
+}
+
+.content-section-b {
+    background-color: #eee;
+}
+
+footer {
+    background-color: #f8f8f8;
+    border: 1px solid #e7e7e7;
+    border-radius: 4px;
+    padding: 15px;
+}
